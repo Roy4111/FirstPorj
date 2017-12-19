@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Built-By: scroy
+Specification-Title: SeleniumDemo
+Class-Path: selenium-java-3.6.0.jar selenium-api-3.6.0.jar selenium-ch
+ rome-driver-3.6.0.jar selenium-edge-driver-3.6.0.jar selenium-firefox
+ -driver-3.6.0.jar selenium-ie-driver-3.6.0.jar selenium-opera-driver-
+ 3.6.0.jar selenium-remote-driver-3.6.0.jar selenium-safari-driver-3.6
+ .0.jar selenium-support-3.6.0.jar byte-buddy-1.7.5.jar commons-exec-1
+ .3.jar commons-codec-1.10.jar commons-logging-1.2.jar gson-2.8.0.jar 
+ guava-23.0.jar jsr305-1.3.9.jar error_prone_annotations-2.0.18.jar j2
+ objc-annotations-1.1.jar animal-sniffer-annotations-1.14.jar httpclie
+ nt-4.5.3.jar httpcore-4.4.6.jar jna-4.1.0.jar jna-platform-4.1.0.jar 
+ webdrivermanager-1.7.2.jar slf4j-api-1.7.24.jar commons-io-2.5.jar co
+ nfig-1.2.1.jar commons-lang3-3.5.jar jarchivelib-0.7.1.jar commons-co
+ mpress-1.9.jar jsoup-1.10.2.jar
+Build-Jdk: 1.8.0_91
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
