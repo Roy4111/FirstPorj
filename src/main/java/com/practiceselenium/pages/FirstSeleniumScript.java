@@ -23,6 +23,8 @@ public class FirstSeleniumScript {
 		driver.findElement(By.id("lst-ib")).sendKeys("Hello Suman!!!");
 		
 		// hdhdhdf
+		
+		System.out.println(" From Local we push");
 
 	}
 
